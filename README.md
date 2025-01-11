@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oubakki Ayoub</h1>
-<h3 align="center">A passionate Web Full Stack developer from India</h3>
+<h3 align="center">A passionate Web Full Stack developer </h3>
 
 - I am a student at the University of Corsica in France **my third year of Computer Science**
 
